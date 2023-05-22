@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/React-50BCDF?style=flat&logo=React&logoColor=white"/>
   </div>
   
-<br/>
+<br>
   
   #### *State management library*
   <div>
@@ -46,6 +46,8 @@
 <br>
 
  <h2>👩‍💻 My Github Stats 👩‍💻</h2>
+  
+  <br>
   
   [![GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeinisfree&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 

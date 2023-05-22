@@ -22,7 +22,6 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
 <br/>
 <br/>
-<br/>
 
 <h2 align="center">🌈 Follow Me 🌈</h2>
 

@@ -13,15 +13,49 @@
 
 
 <h2 align="center">📚 Tech Stack 📚</h2>
-<br/>
+
+
+  
+  #### *UI library*
+  
+  <div>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/>  
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Javascript-D0B336?style=flat&logo=Javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-50BCDF?style=flat&logo=React&logoColor=white"/>
+  </div>
 <br/>
-<br/>
-<br/>
+
+  
+  #### *State management library*
+  <div>
+   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Recoil-764ABC?style=flat&logo=Recoil&logoColor=white"/>
+  </div>
+<br>
+  
+
+  #### *Styling*
+  <div>
+  <img src="https://img.shields.io/badge/Css Modules-1572B6?style=flat&logo=cssmodules&logoColor=white"/>
+  </div>
+<br>
+
+#### *Routing*
+ <div>
+ <img src="https://img.shields.io/badge/React Router-CA4245?style=flat&logo=reactrouter&logoColor=white"/>
+ </div>
+<br>
+  
+  #### *Rendering* 
+  <div>
+  <img src="https://img.shields.io/badge/CRA-09D3AC?style=flat&logo=createreactapp&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white"/>
+  </div>
+
+<br>
+
 
 <h2 align="center">🌈 Follow Me 🌈</h2>
   <br/>

@@ -1,13 +1,8 @@
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Hi!%20I'm%20Sungchan!&fontAlign=50&fontAlignY=40&fontSize=70&fontColor=FFFFFF)
-
 
 <div align="center">
   
-
 <h2 align="center">📚 Tech Stack 📚</h2>
-
-
   
   #### *UI library*
   
@@ -18,21 +13,22 @@
   <img src="https://img.shields.io/badge/Javascript-D0B336?style=flat&logo=Javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-50BCDF?style=flat&logo=React&logoColor=white"/>
   </div>
+  
 <br/>
-
   
   #### *State management library*
   <div>
    <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white"/>
     <img src="https://img.shields.io/badge/Recoil-764ABC?style=flat&logo=Recoil&logoColor=white"/>
   </div>
+  
 <br>
   
-
   #### *Styling*
   <div>
   <img src="https://img.shields.io/badge/Css Modules-1572B6?style=flat&logo=cssmodules&logoColor=white"/>
   </div>
+  
 <br>
 
 #### *Routing*
@@ -49,16 +45,11 @@
 
 <br>
 
-  <h2>👩‍💻 My Github Stats 👩‍💻</h2>
+ <h2>👩‍💻 My Github Stats 👩‍💻</h2>
   
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeinisfree&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-
-
+  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeinisfree&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeinisfree&count_bg=%2341B883&title_bg=%23CDC2C2&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-
-
-
 
 <h2 align="center">🌈 Follow Me 🌈</h2>
   <br/>

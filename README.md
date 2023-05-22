@@ -1,16 +1,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Hi!%20I'm%20Sungchan!&fontAlign=50&fontAlignY=40&fontSize=70&fontColor=FFFFFF)
 
-<h2 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+
 <div align="center">
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeinisfree&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeinisfree&count_bg=%2341B883&title_bg=%23CDC2C2&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-
-
+  
 
 <h2 align="center">📚 Tech Stack 📚</h2>
 
@@ -56,6 +49,16 @@
 
 <br>
 
+  <h2>👩‍💻 My Github Stats 👩‍💻</h2>
+  
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeinisfree&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeinisfree&count_bg=%2341B883&title_bg=%23CDC2C2&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+
+
+
 
 <h2 align="center">🌈 Follow Me 🌈</h2>
   <br/>
@@ -64,4 +67,5 @@
   <a href="https://www.facebook.com/profile.php?id=100004889682464"><img src="https://img.shields.io/badge/Facebook-3766AB?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100004889682464"/></a>
   <br/>
   <br/>
+
 </div>

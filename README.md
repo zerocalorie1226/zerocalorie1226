@@ -26,7 +26,8 @@
   
   #### *Styling*
   <div>
-  <img src="https://img.shields.io/badge/Css Modules-1572B6?style=flat&logo=cssmodules&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Css Modules-1572B6?style=flat&logo=cssmodules&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Styled-components-DB7093?style=flat&logo=styledcomponents&logoColor=white"/>
   </div>
   
 <br>

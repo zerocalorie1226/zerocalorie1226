@@ -1,7 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi!%20I'm%20Sungchan!&fontColor=FFFFFF&animation=scaleIn&fontSize=90&fontAlignY=38)
 
 <div align="center">
-  
+  <br>I'm Sungchan, a junior front-end developer. :seedling:</br>
+<br>Welcome to my space. </br>
+
+
+
 <h2 align="center">📚 Tech Stack 📚</h2>
   
   #### *UI library*
